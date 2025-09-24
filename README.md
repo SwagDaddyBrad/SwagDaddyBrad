@@ -19,7 +19,7 @@
 | **[DOJ Forms](https://github.com/CoolBrad-Scripts/doj-forms)** | Beautiful forms for FiveM Roleplay based of real-life DOJ Documents | 45+
 | **[CB-Pawnshops](https://github.com/CoolBrad-Scripts/cb-pawnshops)** | An advanced Pawn Shop built with Ox Inventory | 10+ |
 | **[CB-ClosedShops](https://github.com/CoolBrad-Scripts/cb-closedshops)** | A FREE Closed Shop System for FiveM | 10+
-| **[CB-Recycling](https://github.com/CoolBrad-Scripts/cb-recycling)** | Rust-inspired recycling script for FiveM | 5+ |
+| **[CB-Recycling](https://github.com/CoolBrad-Scripts/cb-recycling)** | Rust-inspired recycling script for FiveM | 10+ |
 
 ### My Technology Stack
 | **Languages I Know** | **Languages I'm Learning** | **Languages I Want to Learn** |
