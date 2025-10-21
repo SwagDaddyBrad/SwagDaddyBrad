@@ -12,7 +12,7 @@
  
 💬 Ask me about FiveM, RedM, or any of your Web Development needs
 
-Join my [Discord](https://discord.gg/MVFK7BAf)
+Join my [Discord](https://discord.gg/Jwm8NVj22P)
  
 ### 🚀 My Best Releases
 
