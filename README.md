@@ -8,10 +8,12 @@
  
 👯 I'm looking to collaborate with FiveM RP servers
  
- 🤔 I'm looking for help with an Interactive DOJ Panel for FiveM
+🤔 I'm looking for help with an Interactive DOJ Panel for FiveM
  
- 💬 Ask me about FiveM, RedM, or any of your Web Development needs
+💬 Ask me about FiveM, RedM, or any of your Web Development needs
 
+Join my [Discord](https://discord.gg/MVFK7BAf)
+ 
 ### 🚀 My Best Releases
 
 | Project | Description | Stars |
